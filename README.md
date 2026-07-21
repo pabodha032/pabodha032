@@ -13,10 +13,13 @@
 ## 👋 About Me
 
 🎓 Final-year **ICT (Software Engineering)** undergraduate at **South Eastern University of Sri Lanka**
-💻 I build **mobile apps, cloud-connected systems, and IoT solutions**, often rooted in Sri Lankan culture and context
-🌱 Currently deepening my skills in **Flutter, Cloud Architecture (Azure/Supabase), and Backend Development**
-🤖 Exploring **IoT, Smart Systems, and AI-based applications**
-🎨 I care about clean, user-friendly design as much as clean code
+💻 Focused on **Software Engineering, Mobile Development, Backend Development, and Cloud Computing**
+
+- 🌱 Currently learning and improving my skills in **Software Engineering, Flutter, Cloud Technologies, and Backend Development**
+- 📱 Interested in building **mobile applications** and innovative software solutions
+- ☁️ Exploring **Cloud Computing and Azure services**
+- 🤖 Interested in **IoT, Smart Systems, and AI-based applications**
+- 🎨 I enjoy creating **user-friendly designs** and learning new technologies
 
 <br>
 
@@ -113,10 +116,10 @@ A plant care companion app with a clean 5-tab experience for plant lovers.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pabodha032&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pabodha032&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=pabodha032&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=pabodha032&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabodha032&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pabodha032&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
 
 </div>
 
