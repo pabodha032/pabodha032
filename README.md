@@ -1,45 +1,82 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Pabodha%20Sewwandi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ICT%20Software%20Engineering%20Undergraduate&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:764ba2&height=220&section=header&text=Pabodha%20Sewwandi&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Software%20Engineer%20%7C%20ICT%20Undergraduate&descAlignY=54&descSize=18" width="100%"/>
 
 <a href="https://github.com/pabodha032">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+%26+Mobile+App+Developer;Cloud+%26+Backend+Enthusiast+(Azure+%2F+Supabase);IoT+%26+Smart+Systems+Builder;Passionate+about+Sri+Lankan-Focused+Tech;&font=Fira+Code&center=true&width=600&height=45&color=764ABA&vCenter=true&size=22&pause=1500"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+%26+Mobile+App+Developer;Cloud+%26+Backend+Engineer+(Azure+%2F+AWS+%2F+Supabase);AI+%26+IoT+Systems+Builder;Building+Tech+Rooted+in+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;&font=Fira+Code&center=true&width=650&height=45&color=8A9DFF&vCenter=true&size=22&pause=1400"/>
 </a>
+
+<br>
+
+<img src="https://img.shields.io/badge/📍_Sri_Lanka-0F2027?style=flat-square&labelColor=0F2027&color=2C5364"/>
+<img src="https://img.shields.io/badge/🎓_ICT_Undergraduate-0F2027?style=flat-square&labelColor=0F2027&color=2C5364"/>
+<img src="https://img.shields.io/badge/💼_Open_to_Internships-0F2027?style=flat-square&labelColor=0F2027&color=2C5364"/>
 
 </div>
 
 <br>
 
-## 👋 About Me
+## 👩‍💻 About Me
 
-🎓 Final-year **ICT (Software Engineering)** undergraduate at **South Eastern University of Sri Lanka**
-💻 Focused on **Software Engineering, Mobile Development, Backend Development, and Cloud Computing**
+Passionate and motivated software engineering enthusiast with hands-on experience building **mobile apps, cloud-based solutions, and AI-powered systems**. I specialize in **Flutter**, and I'm comfortable across **Java, PHP, React, and cloud platforms** — with a growing focus on solving real-world problems through technology, often with Sri Lankan context baked in.
 
-- 🌱 Currently learning and improving my skills in **Software Engineering, Flutter, Cloud Technologies, and Backend Development**
-- 📱 Interested in building **mobile applications** and innovative software solutions
-- ☁️ Exploring **Cloud Computing and Azure services**
-- 🤖 Interested in **IoT, Smart Systems, and AI-based applications**
-- 🎨 I enjoy creating **user-friendly designs** and learning new technologies
+- 🎓 Final-year **BICT (Hons) — Software Technologies**, South Eastern University of Sri Lanka
+- 🌱 Currently deepening my skills in **Software Engineering, Flutter, Cloud Technologies, and Backend Development**
+- 📱 Focused on building **mobile applications and innovative software solutions**
+- ☁️ Exploring **Cloud Computing** — Azure & AWS
+- 🤖 Working on **AI, IoT, and Smart Systems** — including a final-year research project on accessible learning tech
+- 🎨 I enjoy building **clean, user-friendly interfaces** as much as solid backend logic
+- 💬 Fluent in **Sinhala** and **English**
 
 <br>
 
 ## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 **Languages**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+**Frontend & Mobile**
+<br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 
-**Mobile & Frontend**
+</td>
+<td valign="top" width="50%">
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+**Backend & Databases**
+<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
-**Backend & Database**
+**Cloud, DevOps & IoT**
+<br>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-**Cloud & Tools**
-
-<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -49,30 +86,28 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 [EduPlay](https://github.com/pabodha032)
-**Flutter + Supabase**
+### 🧏 AI-Based Interactive Learning System
+**Final Year Research Project · Ongoing**
 
-A colorful educational game app for Sri Lankan school children covering Math, English, Sinhala & Science.
+A mobile learning platform for **visually impaired school students**, with voice-controlled navigation and Sinhala Text-to-Speech.
 
-- Student & Teacher role-based accounts
-- Subject-based quiz games across 5 levels
-- Progress tracking & rewards system
-- Teacher dashboard with real-time insights
+- React.js teacher dashboard for content & progress tracking
+- Voice-based interactive quizzes with audio feedback
+- Sinhala TTS via Coqui/VITS + Google Speech-to-Text
 
-`Flutter` `Supabase` `PostgreSQL` `RLS`
+`Flutter` `Node.js` `MongoDB` `Hugging Face` `React.js`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌴 [CeylonWander](https://github.com/pabodha032)
-**PHP + Microsoft Azure**
+### 🌴 CeylonWander
+**Individual Project · Full-Stack**
 
-A cloud-based tourism platform to discover and review tourist locations across Sri Lanka.
+A cloud-hosted platform for discovering and reviewing tourist destinations across Sri Lanka.
 
-- REST API built with PHP
-- Azure SQL Database + Blob Storage
-- Shared Key authentication
-- CI/CD via GitHub Actions
+- PHP REST API + Azure SQL Database + Blob Storage
+- Deployed on Azure App Service
+- Automated CI/CD via GitHub Actions
 
 `PHP` `Azure SQL` `Blob Storage` `CI/CD`
 
@@ -81,34 +116,83 @@ A cloud-based tourism platform to discover and review tourist locations across S
 <tr>
 <td width="50%" valign="top">
 
-### 💡 Smart Street Light System
-**IoT + Flutter + ESP32**
+### 🎮 EduPlay
+**Individual Project · Flutter + Supabase**
 
-An IoT-based smart lighting system with sensor-driven automation and real-time mobile monitoring.
+An educational game app for Sri Lankan school children covering Math, English, Sinhala & Science.
 
-- ESP32 sensor integration
-- Real-time data sync via Supabase
-- Dark, space-themed live dashboard UI
+- Supabase backend with row-level security
+- Automated signup trigger, teacher/student roles
+- 5 difficulty levels across 4 subjects
 
-`ESP32` `Flutter` `Supabase` `IoT`
+`Flutter` `Supabase` `PostgreSQL` `RLS`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌿 LeafyLife
-**Flutter**
+**Individual Project · Flutter**
 
-A plant care companion app with a clean 5-tab experience for plant lovers.
+A plant care companion app with 30+ plants and a persistent personal garden.
 
-- Plant catalog with search & filtering
-- Favorites and garden tracking
-- Animated splash screen & green gradient UI system
+- Search, category filters & detailed care info
+- Favorites + "My Garden" with reminders
+- Duplicate prevention logic
 
-`Flutter` `UI/UX` `State Management`
+`Flutter` `Dart` `setState()` `Local Assets`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐾 Doggymart
+**Group Project · Pet Adoption App**
+
+A Flutter app for browsing and adopting dogs, with a full adoption workflow.
+
+- 2-column browsing grid + search & filters
+- Adoption registration form with validation
+- Seller contact & favorites system
+
+`Flutter` `Dart` `SQLite` `Local Assets`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎵 MelodyBox
+**Individual Project · Native Android**
+
+A music playlist manager with role-based authentication and an admin panel.
+
+- SQLite CRUD + RecyclerView song listings
+- MediaPlayer-based background playback
+- MVC architecture, Material Design UI
+
+`Java` `Android Studio` `SQLite` `MediaPlayer API`
 
 </td>
 </tr>
 </table>
+
+<br>
+
+## 📜 Certifications
+
+<div align="center">
+
+| Certificate | Provider | Year |
+|---|---|---|
+| Cloud Web Application Builder — Training Badge | AWS Academy | 2026 |
+| AWS Block Storage — Training Badge | AWS Academy | 2026 |
+| Introduction to Generative AI | AWS Academy | 2026 |
+| AWS Academy Cloud Foundations | AWS Academy | 2025 |
+| Python Programming & Python for Beginners | Open Learning – University of Moratuwa | 2025 |
+| Maximize Productivity With AI Tools | Coursera | 2025 |
+| Introduction to AI | Coursera | 2025 |
+| C++ Essentials & C++ Advanced | Cisco Networking Academy | 2025 |
+
+</div>
 
 <br>
 
@@ -125,13 +209,13 @@ A plant care companion app with a clean 5-tab experience for plant lovers.
 
 <br>
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 <div align="center">
 
+<a href="mailto:pabodha032@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/pabodha032"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<!-- Add these once ready:
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<!-- Add your LinkedIn URL and uncomment:
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 -->
 
@@ -141,8 +225,8 @@ A plant care companion app with a clean 5-tab experience for plant lovers.
 
 <div align="center">
 
-⭐ **Thanks for visiting my profile — feel free to explore my repositories!**
+⭐ **Thanks for stopping by — feel free to explore my repositories!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>
