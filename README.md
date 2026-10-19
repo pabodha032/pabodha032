@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,100:764ba2&height=260&section=header&text=Pabodha%20Sewwandi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ICT%20Software%20Engineering%20Undergraduate%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=60&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=270&section=header&text=Pabodha%20Sewwandi&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=38&desc=ICT%20Software%20Engineering%20Undergraduate%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=60&descSize=17" width="100%"/>
 
 <a href="https://github.com/pabodha032">
   <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+%26+Mobile+App+Developer+%F0%9F%93%B1;Cloud+%26+Backend+Enthusiast+%E2%98%81%EF%B8%8F+(Azure+%2F+Supabase);IoT+%26+Smart+Systems+Builder+%F0%9F%A4%96;Building+Tech+for+Real+Sri+Lankan+Problems+%F0%9F%92%9C&font=Fira+Code&center=true&width=700&height=50&color=A78BFA&vCenter=true&size=22&pause=1500&duration=3000"/>
@@ -17,9 +17,9 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=2&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=70&section=header&reversal=true" width="100%"/>
 
-## 👋 &nbsp;Hello, I'm Pabodha
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/> &nbsp;Hello, I'm Pabodha
 
 I'm a **final-year BICT (Hons) Software Technologies undergraduate** at the **South Eastern University of Sri Lanka**. I love turning ideas into polished mobile apps, backed by solid cloud and backend systems.
 
@@ -48,7 +48,7 @@ I'm a **final-year BICT (Hons) Software Technologies undergraduate** at the **So
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=2&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=70&section=header&reversal=true" width="100%"/>
 
 ## 🛠️ &nbsp;Tech Stack
 
@@ -74,7 +74,7 @@ I'm a **final-year BICT (Hons) Software Technologies undergraduate** at the **So
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=2&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=70&section=header&reversal=true" width="100%"/>
 
 ## 📊 &nbsp;GitHub Stats
 
@@ -91,7 +91,7 @@ I'm a **final-year BICT (Hons) Software Technologies undergraduate** at the **So
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=2&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=70&section=header&reversal=true" width="100%"/>
 
 ## 📫 &nbsp;Let's Connect
 
